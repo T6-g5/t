@@ -1,0 +1,49 @@
+{
+  "version": "2.14",
+  "children": [
+    {
+      "type": "frame",
+      "id": "bi8Au",
+      "x": 0,
+      "y": 0,
+      "name": "Frame",
+      "clip": true,
+      "width": 800,
+      "height": 600,
+      "fill": "#FFFFFF",
+      "layout": "none",
+      "children": [
+        {
+          "type": "rectangle",
+          "id": "cldDr",
+          "x": 192,
+          "y": 76,
+          "fill": "#CCCCCC",
+          "width": 364,
+          "height": 87
+        },
+        {
+          "type": "prompt",
+          "id": "Y2Syi",
+          "x": 182.609756097561,
+          "y": 263,
+          "width": 250,
+          "height": 219
+        },
+        {
+          "type": "frame",
+          "id": "YW2Zv",
+          "x": 444,
+          "y": 249,
+          "name": "Frame 1",
+          "clip": true,
+          "width": 84,
+          "height": 58,
+          "fill": "#FFFFFF",
+          "layout": "none"
+        }
+      ]
+    }
+  ],
+  "fileToken": "3ea35e0f-90b3-466e-9d98-74de549725b4"
+}
